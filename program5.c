@@ -25,6 +25,7 @@ int main()
 
         ++low;
     }
+    getch();
 
     return 0;
 }
